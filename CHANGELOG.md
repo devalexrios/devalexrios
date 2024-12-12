@@ -8,6 +8,7 @@
 - Añade contenido
 - Corrige sintaxis Markdown incompatible
 - Sustituye hashtags por insignias en la presentación
+- Añade insignias a los enlaces en la sección “Conéctate conmigo”
 
 ## v1.0.0
 

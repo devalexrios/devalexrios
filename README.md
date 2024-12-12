@@ -87,8 +87,6 @@ Me gusta orientar a personas interesadas en el área de programación y tecnolog
 ¡Estoy interesado en colaborar en nuevos proyectos y llevar tus ideas a la realidad!
 Aquí están mis redes sociales para que podamos conectarnos:
 
-🔗 [LinkedIn](https://www.linkedin.com/in/devalexrios) – 🔗 [Twitter](https://twitter.com/devalexrios)
-🔗 [GitHub](https://github.com/devalexrios) – 🔗 [GitHub](https://gitlab.com/devalexrios)
-🔗 [Instagram](https://instagram.com/devalexrios) – 🔗 [Telegram](https://t.me/devalexrios)
+[![#LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/devalexrios) [![#Twitter](https://img.shields.io/badge/X%20(Twitter)-000?logo=x&logoColor=fff&style=flat)](https://twitter.com/devalexrios) [![#GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/devalexrios) [![#GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=flat)](https://gitlab.com/devalexrios) [![#Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat)](https://instagram.com/devalexrios) [![#Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat)](https://t.me/devalexrios)
 
 ¡Exploremos cómo puedo contribuir a tus proyectos o a la educación de tus estudiantes! 😀
