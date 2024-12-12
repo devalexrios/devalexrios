@@ -9,6 +9,8 @@
 - Corrige sintaxis Markdown incompatible
 - Sustituye hashtags por insignias en la presentación
 - Añade insignias a los enlaces en la sección “Conéctate conmigo”
+- Renombra la sección de “Tecnologías que Manejo“ a “Competencias Digitales”
+- Rediseña y añade contenido a la sección “Competencias Digitales”
 
 ## v1.0.0
 
