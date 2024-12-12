@@ -7,6 +7,7 @@
 - Mejora gramatical
 - Añade contenido
 - Corrige sintaxis Markdown incompatible
+- Sustituye hashtags por insignias en la presentación
 
 ## v1.0.0
 

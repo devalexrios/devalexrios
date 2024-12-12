@@ -1,6 +1,6 @@
 # <center>Bienvenidos a mi espacio 👋</center>
 
-#CV #ProfesorUniversitario #DesarrolladorDeSoftware #Frontend #Backend #Ciberseguridad #Linux #Servidores #Telecomunicaciones #Automatización 
+![#CV](https://img.shields.io/badge/%23CV-3498db) ![#DesarrolladorDeSoftware](https://img.shields.io/badge/%23DesarrolladorDeSoftware-3498db) ![#ProfesorUniversitario](https://img.shields.io/badge/%23ProfesorUniversitario-3498db) ![#Frontend](https://img.shields.io/badge/%23Frontend-3498db) ![#Backend](https://img.shields.io/badge/%23Backend-3498db) ![#Ciberseguridad](https://img.shields.io/badge/%23Ciberseguridad-3498db) ![#Linux](https://img.shields.io/badge/%23Linux-3498db) ![#Servidores](https://img.shields.io/badge/%23Servidores-3498db) ![#Telecomunicaciones](https://img.shields.io/badge/%23Telecomunicaciones-3498db) ![#Automatización](https://img.shields.io/badge/%23Automatización-3498db)
 
 Soy Alex Ríos, Profesor Universitario y Desarrollador de Software con una sólida base en diversas Tecnologías Informáticas y un fuerte interés en el Código Abierto, Inteligencia Artificial, Ciberseguridad, Sistemas GNU/Linux, Servidores, Telecomunicaciones y Automatización.
 
