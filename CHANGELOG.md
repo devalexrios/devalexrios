@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.0.2
+
+### Cambia
+
+- Justifica el contenido del documento «README.md»
+
 ## v1.0.1
 
 ### Agregado o Cambiado

@@ -2,9 +2,9 @@
 
 ![#CV](https://img.shields.io/badge/%23CV-3498db) ![#DesarrolladorDeSoftware](https://img.shields.io/badge/%23DesarrolladorDeSoftware-3498db) ![#ProfesorUniversitario](https://img.shields.io/badge/%23ProfesorUniversitario-3498db) ![#Frontend](https://img.shields.io/badge/%23Frontend-3498db) ![#Backend](https://img.shields.io/badge/%23Backend-3498db) ![#Ciberseguridad](https://img.shields.io/badge/%23Ciberseguridad-3498db) ![#Linux](https://img.shields.io/badge/%23Linux-3498db) ![#Servidores](https://img.shields.io/badge/%23Servidores-3498db) ![#Telecomunicaciones](https://img.shields.io/badge/%23Telecomunicaciones-3498db) ![#Automatización](https://img.shields.io/badge/%23Automatización-3498db)
 
-Soy Alex Ríos, Profesor Universitario y Desarrollador de Software con una sólida base en diversas Tecnologías Informáticas y un fuerte interés en el Código Abierto, Inteligencia Artificial, Ciberseguridad, Sistemas GNU/Linux, Servidores, Telecomunicaciones y Automatización.
+<p align="justify">Soy Alex Ríos, <i style="text-decoration:underline #f8ff00">Profesor Universitario</i> y <i style="text-decoration:underline #f8ff00">Desarrollador de Software</i> con una sólida base en diversas Tecnologías Informáticas y un fuerte interés en el Código Abierto, Inteligencia Artificial, Ciberseguridad, Sistemas GNU/Linux, Servidores, Telecomunicaciones y Automatización.</p>
 
-Mi objetivo es combinar la educación y el desarrollo para generar un **impacto positivo** en mis estudiantes y en los proyectos en los que trabajo, mientras promuevo una cultura centrada en el **diseño creativo y la protección de los datos.**
+<p align="justify">Mi objetivo es combinar la educación y el desarrollo para generar un <b style="color:#00fd8b">impacto positivo</b> en mis estudiantes y en los proyectos en los que trabajo, mientras promuevo una cultura centrada en el <b style="color:#00fd8b">diseño creativo y la protección de los datos.</b></p>
 
 > [!IMPORTANT]
 > Estoy empezando a compartir mi trayectoria profesional, por lo tanto actualizaré conforme disponga de tiempo.
@@ -13,47 +13,48 @@ Mi objetivo es combinar la educación y el desarrollo para generar un **impacto 
 
 *Como profesor, me enfoco en:*
 
-- **Enseñanza de programación y desarrollo web:** Imparto clases sobre HTML, CSS, JavaScript y Python, ayudando a los estudiantes a adquirir habilidades prácticas.
-- **Mentoría:** Guío a mis alumnos en su aprendizaje, fomentando un ambiente colaborativo y de crecimiento.
+<p align="justify"><b style="color:#00b8dd">Enseñanza de programación y desarrollo web:</b> Imparto clases sobre HTML, CSS, JavaScript y Python, ayudando a los estudiantes a adquirir habilidades prácticas.</p>
+<p align="justify"><b style="color:#00b8dd">Mentoría:</b> Guío a mis alumnos en su aprendizaje, fomentando un ambiente colaborativo y de crecimiento.</p>
 
 ## 💻 Rol como Desarrollador de Software
 
 *Como desarrollador, trabajo con:*
 
-- **Desarrollo de aplicaciones:** Utilizo tecnologías como Node.js y Python para crear soluciones escalables y eficientes.
-- **Gestión de bases de datos:** Trabajo con MySQL, PostgreSQL y SQLite para asegurar la integridad y el rendimiento de los datos.
-- **Implementación de servidores:** Configuro y administro servidores utilizando Apache y NGINX, optimizando el rendimiento y la seguridad desde un entorno Linux.
+<p align="justify"><b style="color:#d844fa">Desarrollo de aplicaciones:</b> Utilizo tecnologías como Node.js y Python para crear soluciones escalables y eficientes.</p>
+<p align="justify"><b style="color:#d844fa">Gestión de bases de datos:</b> Trabajo con MySQL, PostgreSQL y SQLite para asegurar la integridad y el rendimiento de los datos.</p>
+<p align="justify"><b style="color:#d844fa">Implementación de servidores:</b> Configuro y administro servidores utilizando Apache y NGINX, optimizando el rendimiento y la seguridad desde un entorno Linux.</p>
 
 ## 📈 Experiencia
 
-He trabajado en varios proyectos y roles, desde soporte técnico a equipos de computación y capacitación a usuario, pasando por clases y tutorías universitarias, hasta desarrollar aplicaciones de gestión y sitios web personales. Algunos de mis logros incluyen:
+<p align="justify">He trabajado en varios proyectos y roles, desde soporte técnico a equipos de computación y capacitación a usuario, pasando por clases y tutorías universitarias, hasta desarrollar aplicaciones de gestión y sitios web personales. Algunos de mis logros incluyen:</p>
 
-**Desarrollador Jr. –  Academia Wanda**
+> **Desarrollador Jr. –  Academia Wanda**
+> 
+> 1. Implementación de aplicación web con Node.js
+> 2. Administración de Base de Datos y Cifrado de la misma
+> 3. Desarrollo y adaptabilidad de UI/UX personalizado
+> 4. Escaneo y Monitoreo continuo de la Red Privada
 
-1. Implementación de aplicación web con Node.js
-2. Administración de Base de Datos y Cifrado de la misma
-3. Desarrollo y adaptabilidad de UI/UX personalizado
-4. Escaneo y Monitoreo continuo de la Red Privada
+> **Tutor Universitario –  Autónomo**
+> 
+> 1. Introducción a la programación, nociones básicas y fundamentos
+> 2. Enseñanza de técnicas avanzadas de programación
+> 3. Orientación en métodos de estudio e investigación
+> 4. Contribución a la formación de profesionales de alto rendimiento
 
-**Tutor Universitario –  Autónomo**
+> **Técnico – Cinex**
+> 
+> 1. Gestión de múltiples tareas junto a un equipo técnico
+> 2. Manejo eficiente de imprevistos y problemas técnicos
+> 3. Velocidad para hallar y aplicar solución a problemas concretos
 
-1. Introducción a la programación, nociones básicas y fundamentos
-2. Enseñanza de técnicas avanzadas de programación
-3. Orientación en métodos de estudio e investigación
-4. Contribución a la formación de profesionales de alto rendimiento
-
-**Técnico – Cinex**
-
-1. Gestión de múltiples tareas junto a un equipo técnico
-2. Manejo eficiente de imprevistos y problemas técnicos
-3. Velocidad para hallar y aplicar solución a problemas concretos
-
-**Líder de Equipo – UPTTMBI**
-
-1. Soporte técnico a equipos de computación y capacitación a usuarios
-2. Utilización de metodologías del marco lógico y cuantitativa
-3. Recolección de datos mediante encuestas y cuestionarios
-4. Plan de mantenimiento preventivo y correctivo para equipos de computación
+> **Líder de Equipo – UPTTMBI**
+> 
+> 1. Soporte técnico a equipos de computación y capacitación a usuarios
+> 2. Utilización de metodologías del marco lógico y cuantitativa
+> 3. Recolección de datos mediante encuestas y cuestionarios
+> 4. Plan de mantenimiento preventivo y correctivo para equipos de computación
+> 5. Talleres para usuarios sobre mantenimiento de equipos de computación
 
 ## 🔧 Competencias Digitales
 
@@ -67,7 +68,7 @@ He trabajado en varios proyectos y roles, desde soporte técnico a equipos de co
 
 **SISTEMAS OPERATIVOS Y EMULADORES**
 
-![#Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat) ![#MiniOS](https://img.shields.io/badge/MiniOS-0078D6?logo=windows&logoColor=fff&style=flat) ![#Canaima](https://img.shields.io/badge/Canaima-E21832?logo=debian&logoColor=fff&style=flat) ![#Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=flat) ![#Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat) ![#Kali](https://img.shields.io/badge/Kali-557C94?logo=kalilinux&logoColor=fff&style=flat) ![#LocOS](https://img.shields.io/badge/LocOS-0078D6?logo=windows&logoColor=fff&style=flat) ![#Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat) ![#Termux](https://img.shields.io/badge/Termux-000000?logo=termux&logoColor=fff&style=flat)
+![#Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat) ![#MiniOS](https://img.shields.io/badge/MiniOS-0078D6?logo=windows&logoColor=fff&style=flat) ![#Canaima](https://img.shields.io/badge/Canaima-E21832?logo=canaima&logoColor=fff&style=flat) ![#Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=flat) ![#Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat) ![#Kali](https://img.shields.io/badge/Kali-557C94?logo=kalilinux&logoColor=fff&style=flat) ![#LocOS](https://img.shields.io/badge/LocOS-0078D6?logo=windows&logoColor=fff&style=flat) ![#Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat) ![#Termux](https://img.shields.io/badge/Termux-000000?logo=termux&logoColor=fff&style=flat)
 
 **IDE’s Y EDITORES DE TEXTO**
 
@@ -81,9 +82,9 @@ He trabajado en varios proyectos y roles, desde soporte técnico a equipos de co
 
 ## 🤝 Intereses y Colaboraciones
 
-Difundo la importancia de la ciberseguridad y las mejores prácticas para proteger aplicaciones y datos, aprovechando mis conocimientos en área, al tiempo que me apoyo de las herramientas de inteligencia artificial y entornos Linux, mientras mantengo un enfoque de código abierto.
+<p align="justify">Difundo la importancia de la ciberseguridad y las mejores prácticas para proteger aplicaciones y datos, aprovechando mis conocimientos en área, al tiempo que me apoyo de las herramientas de inteligencia artificial y entornos Linux, mientras mantengo un enfoque de código abierto.</p>
 
-Me gusta orientar a personas interesadas en el área de programación y tecnología, compartiendo conocimientos y experiencias, ya sea uniéndome a proyectos colaborativos o respondiendo en grupos y foros.
+<p align="justify">Me gusta orientar a personas interesadas en el área de programación y tecnología, compartiendo conocimientos y experiencias, ya sea uniéndome a proyectos colaborativos o respondiendo en grupos y foros.</p>
 
 ## 🧠 Habilidades Blandas
 
@@ -98,9 +99,8 @@ Me gusta orientar a personas interesadas en el área de programación y tecnolog
 
 ## 📱 Conéctate conmigo
 
-¡Estoy interesado en colaborar en nuevos proyectos y llevar tus ideas a la realidad!
-Aquí están mis redes sociales para que podamos conectarnos:
+<p align="justify">¡Estoy interesado en colaborar en nuevos proyectos y llevar tus ideas a la realidad!<br>Aquí están mis redes sociales para que podamos conectarnos:</p>
 
 [![#LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/devalexrios) [![#Twitter](https://img.shields.io/badge/X%20(Twitter)-000?logo=x&logoColor=fff&style=flat)](https://twitter.com/devalexrios) [![#GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/devalexrios) [![#GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=flat)](https://gitlab.com/devalexrios) [![#Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat)](https://instagram.com/devalexrios) [![#Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat)](https://t.me/devalexrios)
 
-¡Exploremos cómo puedo contribuir a tus proyectos o a la educación de tus estudiantes! 😀
+<p align="justify">¡Exploremos cómo puedo contribuir a tus proyectos o la educación de tus estudiantes! 😀</p>
